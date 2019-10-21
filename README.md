@@ -1,8 +1,8 @@
 Next Games Assigment
-____________________________________________________________________
 
 Demo Version: http://polar-headland-81875.herokuapp.com/
 
+____________________________________________________________________
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
